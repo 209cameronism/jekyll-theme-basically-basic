@@ -18,14 +18,13 @@ title: Old Foreigner
 email:
 description: The go to blog to integrate into China.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://209cameronism.github.io/old/:"
-author:
-  name:
-  twitter:
-  picture:
-twitter_username:
+url: "https://209cameronism.github.io/old/"
+twitter_username: Cshowkat
 github_username: 209cameronism
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+
+logo: "assets/images/foreigner.png"
+navigation_pages:
+  - about.md
 
 # Build settings
 markdown: kramdown
